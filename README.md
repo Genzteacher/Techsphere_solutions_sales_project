@@ -14,7 +14,6 @@
 1. Connected to database using SQL localhost.
 2. Executed queries to extract view and tables which was created, Tables and relevant columns were left-joined to form view was displayed.
 3. it was loaded and transformed using Dax
-   
 
 ### Power BI Data Modeling
 Columns were created such as:
@@ -24,7 +23,6 @@ Columns were created such as:
 - Deal cycle time
 - Win rate
   
-
 
 ### Created measures for:
 - Total Revenue
